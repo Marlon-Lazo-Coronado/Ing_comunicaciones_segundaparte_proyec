@@ -1,0 +1,9 @@
+Este es un mensajes de prueba 
+para el proyecto 1 del curso de 
+comunicaciones.
+
+Este mensaje puede ser modificado, y el reseptor puede ser borrado
+para recibir un nuevo mensaje.
+
+Solo esta probado contexto sencillo, no se sabe sencillo
+funciona con caracteres especiales.
